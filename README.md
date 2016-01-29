@@ -6,23 +6,27 @@ But did you know that the history of computers dates back to the 1800s?
 
 Indeed, the history and evolution of computers is quite extraordinary—and with many early computing technology innovations tied to defense contracts, much of this information were kept secret from the public for decades. In this article, we explore the development and progression of computers.
 
-Mid-1800s-1930s: Early Mechanical Computers
+## Mid-1800s-1930s: Early Mechanical Computers {#mid-1800s-1930s}
 
 The first computers were designed by Charles Babbage in the mid-1800s, and are sometimes collectively known as the Babbage Engines. These include the Difference Engine No. 1, the Analytical Engine, and the Difference Engine No. 2.
 
-![Difference Engine No. 2](export/assets/difference_engine_no_2.jpeg)The **Difference Engine** was constructed from designs by Charles Babbage. Photo by Allan J. Cronin
+![Difference Engine No.2](assets/difference_engine_no_2.jpeg)
+
+The **Difference Engine** was constructed from designs by Charles Babbage. Photo by Allan J. Cronin
 
 These early computers were never completed during Babbage’s lifetime, but their complete designs were preserved. Eventually, one was built in 2002.
 
+[See the 1930s](#1930)
+
 While these early mechanical computers bore little resemblance to the computers in use today, they paved the way for a number of technologies that are used by modern computers, or were instrumental in their development. These concepts include of the idea of separating storage from processing, the logical structure of computers, and the way that data and instructions are inputted and outputted.
 
-![Z1](export/assets/z1.jpeg)
+![Z1](assets/z1.jpeg)
 
 **Z1** was used to take the U.S. Census in 1890\.
 
 Other important mechanical computers are the Automatic Electrical Tabulating Machine—which was used in the U.S. Census of 1890 to handle data from more than 62 million Americans—and the first binary computer: Konrad Zuse’s Z1, which was developed in 1938 and was the precursor to the first electro-mechanical computer.
 
-1930s: Electro-Mechanical Computers
+## 1930s: Electro-Mechanical Computers {#1930s}
 
 Electro-mechanical computers generally worked with relays and/or vacuum tubes, which could be used as switches.
 
