@@ -36,7 +36,7 @@ These early electro-mechanical computers were either analog or were digital—su
 
 Stibitz, by the way, was also responsible for the **first** remote access **computing**, done at a conference at Dartmouth College in New Hampshire. He took a teleprinter to the conference, leaving his computer in New York City, and then proceeded to take problems posed by the audience. He then entered the problems on the keypad of his teleprinter, which outputted the answers afterward.
 
-![Z3](export/assets/z3.jpeg)
+![Z3](assets/z3.jpeg)
 
 **Z3** used floating-point numbers which improved the accuracy of calculations.
 
@@ -44,15 +44,15 @@ It was during the development of these early electro-mechanical computers that m
 
 Other electro-mechanical computers included Bombes, which were **used during WWII to decrypt German codes**.
 
-1940s: Electronic Computers
+## 1940s: Electronic Computers
 
-![Colossus](export/assets/colossus.jpeg)
+![Colossus](assets/colossus.jpeg)
 
 **Colossus**—whose name was fitting for its size—was developed during World War II.
 
 The first electronic computers were developed during the World War II, with the earliest of those being the Colossus. The Colossus was developed to decrypt secret German codes during the war. It used vacuum tubes and paper tape and could perform a number of Boolean (e.g. true/false, yes/no) logical operations.
 
-![Williams Tube](export/assets/williams_tube.jpeg)
+![Williams Tube](assets/williams_tube.jpeg)
 
 **Williams Tube** used RAM for its computations.
 
@@ -60,19 +60,21 @@ Another notable early electronic computer was nicknamed "The Baby" (officially k
 
 Some early electronic computers used decimal numeric systems (such as the ENIAC and the Harvard Mark 1), while others—like the Atanasoff-Berry Computer and the Colossus Mark 2—used binary systems. With the exception of the Atanasoff-Berry Computer, all the major models were programmable, either using punch cards, patch cables and switches, or through stored programs in memory.
 
-1950s: The First Commercial Computers
+## 1950s: The First Commercial Computers
 
 The first commercially available computers came in the 1950s. While computing up until this time had mainly focused on scientific, mathematical, and defense capabilities, new computers were designed for business functions, such as banking and accounting.
 
 The J. Lyons Company, which was a British catering firm, invested heavily in some of these early computers. In 1951, LEO (Lyons Electronic Office) became the first computer to run a regular routine office job. By November of that year, they were using the LEO to run a weekly bakery valuations job.
 
-![UNIVAC](export/assets/univac.jpeg)The **UNIVAC** was the first mass-produced computer.
+![UNIVAC](assets/univac.jpeg)
+
+The **UNIVAC** was the first mass-produced computer.
 
 The UNIVAC was the first commercial computer developed in the U.S., with its first unit delivered to the U.S. Census Bureau. It was the **first mass-produced computer**, with more than 45 units eventually produced and sold.
 
 The IBM 701 was another notable development in early commercial computing; it was the first mainframe computer produced by IBM. It was around the same time that the **Fortran programming language** was being developed (for the 704).
 
-![IBM 650](export/assets/ibm_650.jpeg)
+![IBM 650](assets/ibm_650.jpeg)
 
 The **IBM 650** would cost you $4 million dollars if you bought it today.
 
@@ -80,21 +82,21 @@ A smaller IBM 650 was developed in the mid-1950s, and was popular due to its sma
 
 They cost the **equivalent of almost $4 million** today (adjusted for inflation).
 
-Mid-1950s: Transistor Computers
+## Mid-1950s: Transistor Computers
 
 The development of transistors led to the replacement of vacuum tubes, and resulted in significantly smaller computers. In the beginning, they were less reliable than the vacuum tubes they replaced, but they also consumed significantly less power.
 
-![RAMAC](export/assets/ramac.jpeg)
+![RAMAC](assets/ramac.jpeg)
 
 **IBM 350 RAMAC** used disk drives.
 
 These transistors also led to developments in **computer peripherals**. The first disk drive, the IBM 350 RAMAC, was the first of these introduced in 1956\. Remote terminals also became more common with these second-generation computers.
 
-1960s: The Microchip and the Microprocessor
+## 1960s: The Microchip and the Microprocessor
 
 The microchip (or integrated circuit) is one of the most important advances in computing technology. Many overlaps in history existed between microchip-based computers and transistor-based computers throughout the 1960s, and even into the early 1970s.
 
-![http://images.sixrevisions.com/2010/03/06-10_microcontroller.jpg](export/assets/httpimagessixrevisionscom2010.jpeg)
+![http://images.sixrevisions.com/2010/03/06-10_microcontroller.jpg](assets/httpimagessixrevisionscom2010.jpeg)
 
 **Micochips** allowed the manufacturing of smaller computers. Photo by Ioan Sameli
 
@@ -108,11 +110,11 @@ The first processors were 4-bit, but 8-bit models quickly followed by 1972.
 
 The first 64-bit microprocessors were in use in the early 1990s in some markets, though they didn’t appear in the PC market until the early 2000s.
 
-1970s: Personal Computers
+## 1970s: Personal Computers
 
 The first personal computers were built in the early 1970s. Most of these were limited-production runs, and worked based on small-scale integrated circuits and multi-chip CPUs.
 
-![http://images.sixrevisions.com/2010/03/06-11_commodorepet.jpg](export/assets/httpimagessixrevisionscom2010.jpeg)
+![http://images.sixrevisions.com/2010/03/06-11_commodorepet.jpg](assets/httpimagessixrevisionscom2010.jpeg)
 
 The Commodore PET was a personal computer in the 70s. Photo by Tomislav Medak
 
@@ -124,11 +126,11 @@ Clones of this machine quickly cropped up, and soon there was an entire market b
 
 These early PCs had between 4kB and 48kB of RAM. The Apple II was the only one with a full-color, graphics-capable display, and eventually became the best-seller among the trinity, with more than 4 million units sold.
 
-1980s-1990s: The Early Notebooks and Laptops
+## 1980s-1990s: The Early Notebooks and Laptops
 
 One particularly notable development in the 1980s was the advent of the commercially available portable computer.
 
-![http://images.sixrevisions.com/2010/03/06-12_osborne1.jpg](export/assets/httpimagessixrevisionscom2010.jpeg)
+![http://images.sixrevisions.com/2010/03/06-12_osborne1.jpg](assets/httpimagessixrevisionscom2010.jpeg)
 
 **Osborne 1** was small and portable enough to transport. Photo by Tomislav Medak
 
@@ -136,7 +138,7 @@ The first of these was the **Osborne 1**, in 1981\. It had a tiny 5" monitor and
 
 These early portable computers were portable only in the most technical sense of the word. Generally, they were anywhere from the size of a large electric typewriter to the size of a suitcase.
 
-![http://images.sixrevisions.com/2010/03/06-13_gallivan_sc.jpg](export/assets/httpimagessixrevisionscom2010.jpeg)
+![http://images.sixrevisions.com/2010/03/06-13_gallivan_sc.jpg](assets/httpimagessixrevisionscom2010.jpeg)
 
 The **Gavilan SC** was the first PC to be sold as a "laptop".
 
@@ -146,7 +148,7 @@ Early models had monochrome displays, though there were color displays available
 
 Laptops grew in popularity as they became smaller and lighter. By 1988, displays had reached VGA resolution, and by 1993 they had 256-color screens. From there, resolutions and colors progressed quickly. Other hardware features added during the 1990s and early 2000s included high-capacity hard drives and optical drives.
 
-![http://images.sixrevisions.com/2010/03/06-14_macbookpros.jpg](export/assets/httpimagessixrevisionscom2010.jpeg)
+![http://images.sixrevisions.com/2010/03/06-14_macbookpros.jpg](assets/httpimagessixrevisionscom2010.jpeg)
 
 **Laptops** typically come in three categories, as shown by these Macbooks. Photo by Benjamin Nagel
 
@@ -164,13 +166,13 @@ Standard notebooks usually have displays of 13-15" and are a good compromise bet
 
 Subnotebooks, including netbooks, have displays smaller than 13" and fewer features than standard notebooks.
 
-2000s: The Rise of Mobile Computing
+## 2000s: The Rise of Mobile Computing
 
 Mobile computing is one of the most recent major milestones in the history of computers.
 
 Many smartphones today have higher processor speeds and more memory than desktop PCs had even ten years ago. With phones like the iPhone and the Motorola Droid, it’s becoming possible to perform most of the functions once reserved for desktop PCs from anywhere.
 
-![2000s: The Rise of Mobile Computing](export/assets/2000s_the_rise_of_mobile_computing.jpeg)
+![2000s: The Rise of Mobile Computing](assets/2000s_the_rise_of_mobile_computing.jpeg)
 
 The **Droid** is a smartphone capable of basic computing tasks such as emailing and web browsing.
 
@@ -180,7 +182,7 @@ A number of manufacturers had models, including Apple and Palm. The main feature
 
 Smartphones have truly revolutionized mobile computing. Most basic computing functions can now be done on a smartphone, such as email, browsing the internet, and uploading photos and videos.
 
-Late 2000s: Netbooks
+## Late 2000s: Netbooks
 
 Another recent progression in computing history is the development of netbook computers. Netbooks are smaller and more portable than standard laptops, while still being capable of performing most functions average computer users need (using the Internet, managing email, and using basic office programs). Some netbooks go as far as to have not only built-in WiFi capabilities, but also built-in mobile broadband connectivity options.
 
