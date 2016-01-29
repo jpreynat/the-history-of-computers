@@ -12,7 +12,7 @@ The first computers were designed by Charles Babbage in the mid-1800s, and are s
 
 ![Difference Engine No.2](assets/difference_engine_no_2.jpeg)
 
-The **Difference Engine** was constructed from designs by Charles Babbage. Photo by Allan J. Cronin
+<p class="img-comment">The <b>Difference Engine</b> was constructed from designs by Charles Babbage. Photo by Allan J. Cronin</p>
 
 These early computers were never completed during Babbage’s lifetime, but their complete designs were preserved. Eventually, one was built in 2002.
 
