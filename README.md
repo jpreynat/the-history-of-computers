@@ -16,7 +16,7 @@ The **Difference Engine** was constructed from designs by Charles Babbage. Photo
 
 These early computers were never completed during Babbage’s lifetime, but their complete designs were preserved. Eventually, one was built in 2002.
 
-[See the 1930s](#1930)
+[See the 1930s](#1930s)
 
 While these early mechanical computers bore little resemblance to the computers in use today, they paved the way for a number of technologies that are used by modern computers, or were instrumental in their development. These concepts include of the idea of separating storage from processing, the logical structure of computers, and the way that data and instructions are inputted and outputted.
 
